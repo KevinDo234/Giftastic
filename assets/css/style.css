@@ -1,6 +1,6 @@
 body {
 	font: 18px arial, sans-serif;
-	background: #eee;
+	background: rgb(102, 255, 255);
 }
 #searches {
 	width: 70%;
@@ -27,8 +27,8 @@ input[type="text"] {
 }
 button,
 input[type="submit"] {
-	background: #659A98;
-	color: #ffffff;
+	background: rgb(102, 255, 179);
+	color: rgb(255, 102, 178);
 	border: 0;
 	border-radius: 5px;
 	padding: 5px 20px;

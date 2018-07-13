@@ -52,7 +52,7 @@ $(document).on('click','.searchImage',function(){
     $(this).attr('data-state', 'still')
   }
 });
-
+// So this is what I thought the code would be but for some reason the search part is not working
 $('#addSearch').on('click',function() {
   var newSearch = $('input').eq(0).val();
   searchArray.push(newSearch);
